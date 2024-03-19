@@ -1,2 +1,2 @@
-# ossprac
-for ossprac hw
+정성원    
+2020110417
